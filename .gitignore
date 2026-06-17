@@ -1,3 +1,4 @@
+# 只屏蔽权重、图片、数据集，不屏蔽py源码
 __pycache__/
 .ipynb_checkpoints/
 *.pth.tar
