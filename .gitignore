@@ -1,0 +1,17 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyd
+# Jupyter缓存
+.ipynb_checkpoints/
+# 大权重、数据集、压缩包、图片输出
+*.pth.tar
+*.pkl
+*.zip
+Subject_*/
+fpha_smoke/
+results/
+*.png
+*.mp4
+# 系统临时文件
+.DS_Store
